@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AdameGu
+- 👀 I’m interested in developing technological solutions
+- 🌱 I’m currently learning programming and IOT
+- 📫 dosh.adame@gmail.com
